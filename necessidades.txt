@@ -1,0 +1,2 @@
+escopo:
+a empresa x quer desenvolver um sistema utilizanado carros que vom para realizar viagens com os seus usuarios que atendam o preço de ate 10 dolares por viagem necessidade dos cliente 
