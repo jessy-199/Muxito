@@ -1,0 +1,26 @@
+Analise: 
+
+
+. O sistema deve possuir cadastro de usuarios (motoristas e passageiros) 
+
+. O sistema deve conseguir buscar (encontrar) passageiros  
+
+. Mostrar localização do passageiro e do motorista 
+
+. Ter um GPS 
+
+. Buscar os usuarios mais proximos  
+
+. Ter o preço da viagem  
+
+. Ter uma area para cadastro de novos motoristas (para pessoas que querem começar a trabalhar como motorista) 
+
+. Deve ter contatos (numeros e email) 
+
+. Ter chamada de novas corrida para o motorista 
+
+. Registrar conta (cartão) 
+
+. Mostrar formas de pagamentos 
+
+. Mostrar que foi pago e qual foi a forma do pagamento 
